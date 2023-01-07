@@ -496,7 +496,7 @@ case "$x" in
    exit;
    ;;
    v)
-   bash <(curl -s -L https://raw.githubusercontent.com/TelksBr/v2ray/master/install.sh)
+   bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/install.sh)
    ;;
    *)
    echo -e "\n\033[1;31mOpcao invalida !\033[0m"
