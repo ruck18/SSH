@@ -1,6 +1,6 @@
 #!/bin/bash
 #====================================================
-#	@smigol
+#	@smigolvip
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/ruck18/SSH/main/Modulos/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
