@@ -1,6 +1,6 @@
-# SCOTT PRO ⚡
+# PULSE NET SSH ⚡
 
-# @SCOTTSSH
+# @SMIGOLVIP
 
 *PROJETO EM BETA🍷🗿
 ```
